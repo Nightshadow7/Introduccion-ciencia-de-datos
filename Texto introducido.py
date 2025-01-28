@@ -26,10 +26,10 @@ def analizar_texto(texto):
   palabra_mas_corta = min(palabras, key=len)
   palabras_unicas = sorted(set(palabras))
   return {
-      "total_palabras": total_palabras,
-      "palabra_mas_larga": palabra_mas_larga,
-      "palabra_mas_corta": palabra_mas_corta,
-      "palabras_unicas": palabras_unicas,
+    "total_palabras": total_palabras,
+    "palabra_mas_larga": palabra_mas_larga,
+    "palabra_mas_corta": palabra_mas_corta,
+    "palabras_unicas": palabras_unicas,
   }
 
 def mostrar_resultados(analisis):

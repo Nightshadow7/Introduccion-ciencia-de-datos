@@ -30,7 +30,12 @@ persona = {"Nombre" : "Juan" , "Edad": 30}
 PI = mt.pi
 GRAVEDAD = 9.8
 
-# Cating de valores
+# Casting de valores
 entero =  int("123")
 flotante = float("3.14")
 texto = str(123)
+
+nombre = input("¿Como te llamas? ")
+edad = input("¿Cuantos años tienes? ")
+
+print(f"Hola {nombre}. Tienes {edad} Años.")
