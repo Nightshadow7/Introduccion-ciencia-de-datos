@@ -152,7 +152,10 @@ Además de las estructuras de datos básicas como listas, tuplas, diccionarios y
       + Se pueden implementar con listas o con la librería ___collections___.
     + **Diccionarios anidados:**
       + Permiten crear estructuras jerárquicas, como registros complejos.
-      + Ejemplo: {"usuario1": {"nombre": "Juan", "edad": 25}}
+      + Ejemplo:
+        ```python
+        {"usuario1": {"nombre": "Juan", "edad": 25}}
+        ```
     + **Conjuntos avanzados:**
       Operaciones como unión, intersección y diferencia entre conjuntos.
     + **Uso de *collections*:**
@@ -168,7 +171,7 @@ Además de las estructuras de datos básicas como listas, tuplas, diccionarios y
 | Tema | Descripcion | Practica |
 | -- | -- | -- |
 | Introduccion a Python | Iniciacion con el Hola mundo | [Hello World](Ejemplo%20clase%201.py#L3) |
-| Variables y Tipos de Datos | Introducimos los principales tipos de datos en Python y el casting | * [Tipos de datos](Ejemplo%20clase%202_1.py#L1) * [Ejemplo de uso](Ejemplo%20clase%202_2.py#L1) |
+| Variables y Tipos de Datos | Introducimos los principales tipos de datos en Python y el casting | <ul><li>[Tipos de datos](Ejemplo%20clase%202_1.py#L1)</li> <li>[Ejemplo de uso](Ejemplo%20clase%202_2.py#L1)</li></ul> |
 | Estructuras de control | Se muestran un pequeño vistaso al uso de las estructuras de control y las funciones | [Estructuras de Control](Ejemplo%20clase%203.py#L1) |
 | Estructura de datos | Se muestran los tipos de estructuras de datos basicos como arrays y matrices tambien el como manipularlos. | [Arrays y Matrices](Ejemplo%10clase%204.py#L1) |
 | Juego pokemon | Se muestra la estructura de un juego de pokemones creado y proporcionado por el docente | [Juego Pokemon version 0.0](pokemonGame.py#L132)
@@ -179,5 +182,5 @@ Además de las estructuras de datos básicas como listas, tuplas, diccionarios y
 | -- | -- | -- |
 | Sistema de Facturacion Simple | Crear un programa que le permita al usuario generar una factura básica con múltiples productos.  | [Facturacion simple](Facturacion%20simple.py#L83) |
 | Analisis de Palabras | Escribe un programa que analice un texto introducido por el usuario. | [Introduccion del texto](Texto%20introducido.py#L50) |
-| Rotacion de matriz | Dada una matriz cuadrada, escribe un programa que realice la rotación de 90 grados en sentido horario y muestre la matriz rotada. | *[Rotacion con numpy](Rotacion%20matriz.py#L32) *[Rotacion sin Librerias](Rotacion%20matriz.py#L72) |
-| Modificacion del juego de Pokemon | Se investigo al respecto en la pagina oficial llamada Bulbapedia. Se utilizo un archivo JSON para cargar los movimientos y ataques,adicional como recomendacion cabiar la ruta de archivo para que funcione correctamente. [Aqui👆🏻](Pokemon%20Game%20Released.py#L122) | * [Pagina Oficial](https://bulbapedia.bulbagarden.net/wiki/Main_Page) * [JSON Utilizado](https://github.com/Purukitto/pokemon-data.json) * [Juego](Pokemon%20Game%20Released.py#L170) |
+| Rotacion de matriz | Dada una matriz cuadrada, escribe un programa que realice la rotación de 90 grados en sentido horario y muestre la matriz rotada. | <ul><li>[Rotacion con numpy](Rotacion%20matriz.py#L32)</li><li>[Rotacion sin Librerias](Rotacion%20matriz.py#L72)</li></ul> |
+| Modificacion del juego de Pokemon | Se investigo al respecto en la pagina oficial llamada Bulbapedia. Se utilizo un archivo JSON para cargar los movimientos y ataques,adicional como recomendacion cabiar la ruta de archivo para que funcione correctamente. [Aqui👆🏻](Pokemon%20Game%20Released.py#L122) | <ul><li>[Pagina Oficial](https://bulbapedia.bulbagarden.net/wiki/Main_Page)</li><li>[JSON Utilizado](https://github.com/Purukitto/pokemon-data.json)</li><li>[Juego](Pokemon%20Game%20Released.py#L170)</li><ul/> |

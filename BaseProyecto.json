@@ -1,0 +1,185 @@
+{
+  "Procesadores": {
+    "Intel": [
+      {
+        "Generacion": "11va",
+        "Modelos": [
+          {"Modelo": "i9-11900K", "Nucleos": 8, "Hilos": 16, "FrecuenciaBase": "3.5 GHz", "FrecuenciaTurbo": "5.3 GHz", "Consumo": 125, "Precio": 500, "RAM_VelocidadMaxima": "3200 MT/s", "Integrada": "UHD Graphics 750"},
+          {"Modelo": "i7-11700K", "Nucleos": 8, "Hilos": 16, "FrecuenciaBase": "3.6 GHz", "FrecuenciaTurbo": "5.0 GHz", "Consumo": 125, "Precio": 380, "RAM_VelocidadMaxima": "3200 MT/s", "Integrada": "UHD Graphics 750"}
+        ]
+      },
+      {
+        "Generacion": "12va",
+        "Modelos": [
+          {"Modelo": "i9-12900K", "Nucleos": 16, "Hilos": 24, "FrecuenciaBase": "3.2 GHz", "FrecuenciaTurbo": "5.2 GHz", "Consumo": 125, "Precio": 600, "RAM_VelocidadMaxima": "4800 MT/s", "Integrada": "UHD Graphics 770"},
+          {"Modelo": "i7-12700K", "Nucleos": 12, "Hilos": 20, "FrecuenciaBase": "3.6 GHz", "FrecuenciaTurbo": "5.0 GHz", "Consumo": 125, "Precio": 400, "RAM_VelocidadMaxima": "4800 MT/s", "Integrada": "UHD Graphics 770"}
+        ]
+      },
+      {
+        "Generacion": "13va",
+        "Modelos": [
+          {"Modelo": "i9-13900K", "Nucleos": 24, "Hilos": 32, "FrecuenciaBase": "3.0 GHz", "FrecuenciaTurbo": "5.8 GHz", "Consumo": 125, "Precio": 700, "RAM_VelocidadMaxima": "5600 MT/s", "Integrada": "UHD Graphics 770"},
+          {"Modelo": "i7-13700K", "Nucleos": 16, "Hilos": 24, "FrecuenciaBase": "3.4 GHz", "FrecuenciaTurbo": "5.4 GHz", "Consumo": 125, "Precio": 500, "RAM_VelocidadMaxima": "5600 MT/s", "Integrada": "UHD Graphics 770"}
+        ]
+      },
+      {
+        "Generacion": "14va",
+        "Modelos": [
+          {"Modelo": "i9-14900K", "Nucleos": 24, "Hilos": 32, "FrecuenciaBase": "3.2 GHz", "FrecuenciaTurbo": "6.0 GHz", "Consumo": 125, "Precio": 800, "RAM_VelocidadMaxima": "5600 MT/s", "Integrada": "UHD Graphics 770"},
+          {"Modelo": "i7-14700K", "Nucleos": 20, "Hilos": 28, "FrecuenciaBase": "3.6 GHz", "FrecuenciaTurbo": "5.6 GHz", "Consumo": 125, "Precio": 600, "RAM_VelocidadMaxima": "5600 MT/s", "Integrada": "UHD Graphics 770"}
+        ]
+      }
+    ],
+    "AMD": [
+      {
+        "Generacion": "Ryzen 5000",
+        "Modelos": [
+          {"Modelo": "Ryzen 9 5900X", "Nucleos": 12, "Hilos": 24, "FrecuenciaBase": "3.7 GHz", "FrecuenciaTurbo": "4.8 GHz", "Consumo": 105, "Precio": 550, "RAM_VelocidadMaxima": "3200 MT/s", "3D_Cache": false},
+          {"Modelo": "Ryzen 7 5800X", "Nucleos": 8, "Hilos": 16, "FrecuenciaBase": "3.8 GHz", "FrecuenciaTurbo": "4.7 GHz", "Consumo": 105, "Precio": 400, "RAM_VelocidadMaxima": "3200 MT/s", "3D_Cache": false}
+        ]
+      },
+      {
+        "Generacion": "Ryzen 7000",
+        "Modelos": [
+          {"Modelo": "Ryzen 9 7900X", "Nucleos": 12, "Hilos": 24, "FrecuenciaBase": "4.7 GHz", "FrecuenciaTurbo": "5.6 GHz", "Consumo": 170, "Precio": 650, "RAM_VelocidadMaxima": "5200 MT/s", "3D_Cache": false},
+          {"Modelo": "Ryzen 7 7800X3D", "Nucleos": 8, "Hilos": 16, "FrecuenciaBase": "4.2 GHz", "FrecuenciaTurbo": "5.0 GHz", "Consumo": 120, "Precio": 500, "RAM_VelocidadMaxima": "5200 MT/s", "3D_Cache": true}
+        ]
+      },
+      {
+        "Generacion": "Ryzen 8000",
+        "Modelos": [
+          {"Modelo": "Ryzen 9 8900X", "Nucleos": 16, "Hilos": 32, "FrecuenciaBase": "5.0 GHz", "FrecuenciaTurbo": "6.0 GHz", "Consumo": 170, "Precio": 750, "RAM_VelocidadMaxima": "5600 MT/s", "3D_Cache": false},
+          {"Modelo": "Ryzen 7 8800X3D", "Nucleos": 8, "Hilos": 16, "FrecuenciaBase": "4.5 GHz", "FrecuenciaTurbo": "5.3 GHz", "Consumo": 120, "Precio": 600, "RAM_VelocidadMaxima": "5600 MT/s", "3D_Cache": true}
+        ]
+      },
+      {
+        "Generacion": "Ryzen 9000",
+        "Modelos": [
+          {"Modelo": "Ryzen 9 9900X", "Nucleos": 16, "Hilos": 32, "FrecuenciaBase": "5.2 GHz", "FrecuenciaTurbo": "6.2 GHz", "Consumo": 170, "Precio": 850, "RAM_VelocidadMaxima": "6000 MT/s", "3D_Cache": false},
+          {"Modelo": "Ryzen 7 9800X3D", "Nucleos": 8, "Hilos": 16, "FrecuenciaBase": "4.7 GHz", "FrecuenciaTurbo": "5.5 GHz", "Consumo": 120, "Precio": 700, "RAM_VelocidadMaxima": "6000 MT/s", "3D_Cache": true}
+        ]
+      }
+    ]
+  },
+  "RAM": [
+    {"Marca": "Corsair", "Modelo": "Vengeance LPX", "Capacidad": "16GB (2x8GB)", "Velocidad": "3200 MHz", "Tipo": "DDR4", "Precio": 60},
+    {"Marca": "G.Skill", "Modelo": "Trident Z Neo", "Capacidad": "32GB (2x16GB)", "Velocidad": "3600 MHz", "Tipo": "DDR4", "Precio": 120},
+    {"Marca": "Kingston", "Modelo": "Fury Beast", "Capacidad": "16GB (2x8GB)", "Velocidad": "3200 MHz", "Tipo": "DDR4", "Precio": 55},
+    {"Marca": "Crucial", "Modelo": "Ballistix", "Capacidad": "32GB (2x16GB)", "Velocidad": "3600 MHz", "Tipo": "DDR4", "Precio": 110},
+    {"Marca": "Samsung", "Modelo": "Evo Pro", "Capacidad": "16GB (2x8GB)", "Velocidad": "4800 MHz", "Tipo": "DDR5", "Precio": 100},
+    {"Marca": "Corsair", "Modelo": "Dominator Platinum", "Capacidad": "32GB (2x16GB)", "Velocidad": "5200 MHz", "Tipo": "DDR5", "Precio": 200},
+    {"Marca": "G.Skill", "Modelo": "Trident Z5 Neo", "Capacidad": "16GB (2x8GB)", "Velocidad": "6000 MHz", "Tipo": "DDR5", "Precio": 150},
+    {"Marca": "Kingston", "Modelo": "Fury Renegade", "Capacidad": "32GB (2x16GB)", "Velocidad": "6400 MHz", "Tipo": "DDR5", "Precio": 250}
+  ],
+  "Almacenamiento": [
+    {"Tipo": "SSD NVMe", "Marca": "Samsung", "Modelo": "980 Pro", "Capacidad": "1TB", "VelocidadLectura": "7000 MB/s", "VelocidadEscritura": "5000 MB/s", "Precio": 180},
+    {"Tipo": "SSD NVMe", "Marca": "WD", "Modelo": "Black SN850", "Capacidad": "1TB", "VelocidadLectura": "7000 MB/s", "VelocidadEscritura": "6500 MB/s", "Precio": 160},
+    {"Tipo": "SSD SATA", "Marca": "Kingston", "Modelo": "KC600", "Capacidad": "1TB", "VelocidadLectura": "550 MB/s", "VelocidadEscritura": "520 MB/s", "Precio": 100},
+    {"Tipo": "HDD", "Marca": "Seagate", "Modelo": "Barracuda", "Capacidad": "4TB", "Velocidad": "7200 RPM", "Precio": 80}
+  ],
+  "PlacasBase": [
+    {"Marca": "ASUS", "Modelo": "ROG Maximus Z790 Hero", "Socket": "LGA 1700", "Chipset": "Z790", "RAM": "DDR5", "Precio": 400, "Compatibilidad": "Intel"},
+    {"Marca": "MSI", "Modelo": "MPG Z790 Carbon WIFI", "Socket": "LGA 1700", "Chipset": "Z790", "RAM": "DDR5", "Precio": 350, "Compatibilidad": "Intel"},
+    {"Marca": "Gigabyte", "Modelo": "Z790 Aorus Master", "Socket": "LGA 1700", "Chipset": "Z790", "RAM": "DDR5", "Precio": 380, "Compatibilidad": "Intel"},
+    {"Marca": "ASUS", "Modelo": "ROG Crosshair X670E Hero", "Socket": "AM5", "Chipset": "X670E", "RAM": "DDR5", "Precio": 450, "Compatibilidad": "AMD"},
+    {"Marca": "MSI", "Modelo": "MPG X670E Carbon WIFI", "Socket": "AM5", "Chipset": "X670E", "RAM": "DDR5", "Precio": 400, "Compatibilidad": "AMD"},
+    {"Marca": "ASRock", "Modelo": "X670E Taichi", "Socket": "AM5", "Chipset": "X670E", "RAM": "DDR5", "Precio": 420, "Compatibilidad": "AMD"}
+  ],
+  "FuentesDeAlimentacion": [
+    {"Marca": "Corsair", "Modelo": "RM1000x", "Potencia": "1000W", "Certificacion": "80+ Gold", "Precio": 200},
+    {"Marca": "EVGA", "Modelo": "SuperNOVA 850 G6", "Potencia": "850W", "Certificacion": "80+ Gold", "Precio": 150},
+    {"Marca": "Seasonic", "Modelo": "FOCUS GX-750", "Potencia": "750W", "Certificacion": "80+ Gold", "Precio": 120},
+    {"Marca": "Cooler Master", "Modelo": "MWE Gold 650", "Potencia": "650W", "Certificacion": "80+ Gold", "Precio": 100}
+  ],
+  "TarjetasGraficas": [
+    {"Marca": "NVIDIA", "Modelo": "GeForce RTX 4090", "VRAM": "24GB", "Precio": 1600},
+    {"Marca": "NVIDIA", "Modelo": "GeForce RTX 4080", "VRAM": "16GB", "Precio": 1200},
+    {"Marca": "NVIDIA", "Modelo": "GeForce RTX 4070 Ti", "VRAM": "12GB", "Precio": 800},
+    {"Marca": "NVIDIA", "Modelo": "GeForce RTX 4070", "VRAM": "12GB", "Precio": 600},
+    {"Marca": "NVIDIA", "Modelo": "GeForce RTX 3060", "VRAM": "12GB", "Precio": 350},
+    {"Marca": "AMD", "Modelo": "Radeon RX 7900 XTX", "VRAM": "24GB", "Precio": 1000},
+    {"Marca": "AMD", "Modelo": "Radeon RX 7900 XT", "VRAM": "20GB", "Precio": 800},
+    {"Marca": "AMD", "Modelo": "Radeon RX 6800 XT", "VRAM": "16GB", "Precio": 600},
+    {"Marca": "AMD", "Modelo": "Radeon RX 6700 XT", "VRAM": "12GB", "Precio": 450}
+  ],
+  "Cajas": {
+    "Basica": [
+      {
+        "Marca": "N/A",
+        "Modelo": "Generic Case",
+        "Tipo": "Torre",
+        "Material": "Acero",
+        "PanelLateral": "Sólido",
+        "ConectoresFrontales": "2x USB 2.0, Audio",
+        "VentiladoresIncluidos": "1x 120mm",
+        "FiltroPolvo": false,
+        "Disposicion": "Horizontal",
+        "Precio": 30
+      },
+      {
+        "Marca": "Aerocool",
+        "Modelo": "Cylon Mini",
+        "Tipo": "Mini-Torre",
+        "Material": "Acero",
+        "PanelLateral": "Acrílico",
+        "ConectoresFrontales": "2x USB 3.0, Audio",
+        "VentiladoresIncluidos": "1x 120mm",
+        "FiltroPolvo": true,
+        "Disposicion": "Horizontal",
+        "Precio": 40
+      }
+    ],
+    "Media": [
+      {
+        "Marca": "NZXT",
+        "Modelo": "H510",
+        "Tipo": "Torre",
+        "Material": "Acero",
+        "PanelLateral": "Cristal Templado",
+        "ConectoresFrontales": "1x USB 3.2 Gen 2 Type-C, 1x USB 3.2 Gen 1 Type-A, Audio",
+        "VentiladoresIncluidos": "2x 120mm",
+        "FiltroPolvo": true,
+        "Disposicion": "Horizontal",
+        "Precio": 80
+      },
+      {
+        "Marca": "Corsair",
+        "Modelo": "4000D Airflow",
+        "Tipo": "Torre",
+        "Material": "Acero",
+        "PanelLateral": "Cristal Templado",
+        "ConectoresFrontales": "1x USB 3.2 Gen 2 Type-C, 1x USB 3.2 Gen 1 Type-A, Audio",
+        "VentiladoresIncluidos": "2x 120mm",
+        "FiltroPolvo": true,
+        "Disposicion": "Horizontal",
+        "Precio": 90
+      }
+    ],
+    "Buena": [
+      {
+        "Marca": "Lian Li",
+        "Modelo": "O11 Dynamic XL",
+        "Tipo": "Torre",
+        "Material": "Aluminio",
+        "PanelLateral": "Cristal Templado",
+        "ConectoresFrontales": "1x USB 3.2 Gen 2 Type-C, 2x USB 3.2 Gen 1 Type-A, Audio",
+        "VentiladoresIncluidos": "0",
+        "FiltroPolvo": true,
+        "Disposicion": "Horizontal",
+        "Precio": 200
+      },
+      {
+        "Marca": "Fractal Design",
+        "Modelo": "Define 7 XL",
+        "Tipo": "Torre",
+        "Material": "Acero",
+        "PanelLateral": "Cristal Templado",
+        "ConectoresFrontales": "1x USB 3.2 Gen 2 Type-C, 2x USB 3.2 Gen 1 Type-A, Audio",
+        "VentiladoresIncluidos": "3x 140mm",
+        "FiltroPolvo": true,
+        "Disposicion": "Horizontal",
+        "Precio": 180
+      }
+    ]
+  }
+}
