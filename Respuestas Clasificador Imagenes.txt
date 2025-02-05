@@ -1,0 +1,38 @@
+1. ¿Qué partes del proceso fueron más desafiantes?
+Entender cómo representar una imagen como entrada para la red neuronal:
+  - Inicialmente, se menciona que una imagen se puede representar como una larga lista de valores de píxeles.
+  - Sin embargo, esto puede ser ineficiente y se menciona la necesidad de reducir el tamaño de la imagen para disminuir el número de neuronas de entrada.
+  - Además, se introduce el concepto de "normalización" de los datos, lo cual implica transformar los valores de los píxeles a un rango específico (entre 0 y 1) para mejorar el entrenamiento.
+
+Comprender el papel de las capas ocultas y las funciones de activación:
+  - Se explica que las capas ocultas permiten a la red realizar transformaciones más complejas de los datos de entrada.
+  - La función de activación introduce no linealidad en la red, lo que es crucial para resolver problemas más complejos que las simples ecuaciones lineales.
+  - Se menciona que la elección del número de capas ocultas y el tipo de función de activación puede influir significativamente en el rendimiento del modelo.
+
+Obtener y preparar los datos de entrenamiento:
+  - Se destaca la importancia de contar con un conjunto de datos grande y diverso para entrenar la red neuronal.
+  - En este caso, se utiliza el conjunto de datos de moda de Fashion MNIST, que contiene 70,000 imágenes de prendas de vestir.
+  - La preparación de los datos, como la normalización y la división en conjuntos de entrenamiento y prueba, también requiere atención.
+
+
+
+2. ¿Cómo se podría mejorar el modelo?
+Utilizar redes neuronales convolucionales (CNN):
+  - El video menciona que las CNN son especialmente adecuadas para la clasificación de imágenes.
+  - Estas redes aprovechan la estructura local de las imágenes, lo que les permite aprender características más relevantes y mejorar la precisión.
+
+Aumentar el tamaño del conjunto de datos:
+  - Un conjunto de datos más grande y diverso puede ayudar a mejorar la generalización del modelo y reducir el riesgo de sobreajuste.
+
+Experimentar con diferentes arquitecturas de red:
+  - Se puede probar con diferentes números de capas ocultas, diferentes tamaños de capas y diferentes tipos de funciones de activación para encontrar la mejor configuración para el problema específico.
+
+Utilizar técnicas de aumento de datos:
+  - Estas técnicas consisten en aplicar transformaciones a las imágenes de entrenamiento, como rotaciones, traslaciones y cambios de escala, para aumentar la variabilidad de los datos y mejorar la robustez del modelo.
+
+Implementar técnicas de regularización:
+  - Estas técnicas, como el dropout, pueden ayudar a prevenir el sobreajuste del modelo.
+
+Afinar los hiperparámetros:
+  - Los hiperparámetros, como la tasa de aprendizaje y el tamaño del lote, pueden afectar significativamente el rendimiento del modelo.
+  - Se pueden utilizar técnicas de búsqueda de hiperparámetros, como la búsqueda en cuadrícula o la búsqueda aleatoria, para encontrar los mejores valores.

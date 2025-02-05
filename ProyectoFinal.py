@@ -28,7 +28,7 @@ def filter_components(category, filters):
     return filtered
 
 # Interfaz de Streamlit
-st.title("🛠️ Armador de PC Personalizado")
+st.title("🛠️ Pc Select 🛠️")
 
 # Selección de uso y presupuesto
 st.header("1. Define tu uso y presupuesto")
@@ -98,13 +98,13 @@ st.write(f"**Caja:** {caja_seleccionada}")
 
 # Calcular precio total
 precio_total = (
-    procesador_seleccionado["Precio"]
-    + next(placa["Precio"] for placa in placas_compatibles if f"{placa['Marca']} {placa['Modelo']} (${placa['Precio']})" == placa_seleccionada)
-    + next(ram["Precio"] for ram in ram_compatibles if f"{ram['Marca']} {ram['Modelo']} ({ram['Capacidad']}, ${ram['Precio']})" == ram_seleccionada)
-    + next(alm["Precio"] for alm in data["Almacenamiento"] if f"{alm['Marca']} {alm['Modelo']} ({alm['Capacidad']}, ${alm['Precio']})" == almacenamiento_seleccionado)
-    + next(gpu["Precio"] for gpu in data["TarjetasGraficas"] if f"{gpu['Marca']} {gpu['Modelo']} ({gpu['VRAM']}, ${gpu['Precio']})" == gpu_seleccionada)
-    + next(fuente["Precio"] for fuente in data["FuentesDeAlimentacion"] if f"{fuente['Marca']} {fuente['Modelo']} ({fuente['Potencia']}, ${fuente['Precio']})" == fuente_seleccionada)
-    + next(caja["Precio"] for caja in data["Cajas"]["Media"] if f"{caja['Marca']} {caja['Modelo']} (${caja['Precio']})" == caja_seleccionada)
+  procesador_seleccionado["Precio"]
+  + next(placa["Precio"] for placa in placas_compatibles if f"{placa['Marca']} {placa['Modelo']} (${placa['Precio']})" == placa_seleccionada)
+  + next(ram["Precio"] for ram in ram_compatibles if f"{ram['Marca']} {ram['Modelo']} ({ram['Capacidad']}, ${ram['Precio']})" == ram_seleccionada)
+  + next(alm["Precio"] for alm in data["Almacenamiento"] if f"{alm['Marca']} {alm['Modelo']} ({alm['Capacidad']}, ${alm['Precio']})" == almacenamiento_seleccionado)
+  + next(gpu["Precio"] for gpu in data["TarjetasGraficas"] if f"{gpu['Marca']} {gpu['Modelo']} ({gpu['VRAM']}, ${gpu['Precio']})" == gpu_seleccionada)
+  + next(fuente["Precio"] for fuente in data["FuentesDeAlimentacion"] if f"{fuente['Marca']} {fuente['Modelo']} ({fuente['Potencia']}, ${fuente['Precio']})" == fuente_seleccionada)
+  + next(caja["Precio"] for caja in data["Cajas"]["Media"] if f"{caja['Marca']} {caja['Modelo']} (${caja['Precio']})" == caja_seleccionada)
 )
 
 st.write(f"**Precio Total:** ${precio_total}")

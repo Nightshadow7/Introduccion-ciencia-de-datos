@@ -137,7 +137,7 @@
             "RAM_VelocidadMaxima": "4800 MT/s",
             "Integrada": "UHD Graphics",
             "Compatibilidad_Placas": "Series 600",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "i3-1220P",
@@ -150,7 +150,7 @@
             "RAM_VelocidadMaxima": "4800 MT/s",
             "Integrada": "UHD Graphics",
             "Compatibilidad_Placas": "Series 600",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "i3-12100",
@@ -163,7 +163,7 @@
             "RAM_VelocidadMaxima": "4800 MT/s",
             "Integrada": "UHD Graphics 730",
             "Compatibilidad_Placas": "Series 600",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "i5-12500H",
@@ -176,7 +176,7 @@
             "RAM_VelocidadMaxima": "4800 MT/s",
             "Integrada": "Iris Xe Graphics",
             "Compatibilidad_Placas": "Series 600",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "i5-12600H",
@@ -189,7 +189,7 @@
             "RAM_VelocidadMaxima": "4800 MT/s",
             "Integrada": "Iris Xe Graphics",
             "Compatibilidad_Placas": "Series 600",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "i7-12650H",
@@ -202,7 +202,7 @@
             "RAM_VelocidadMaxima": "4800 MT/s",
             "Integrada": "Iris Xe Graphics",
             "Compatibilidad_Placas": "Series 600",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "i7-12700H",
@@ -215,7 +215,7 @@
             "RAM_VelocidadMaxima": "4800 MT/s",
             "Integrada": "Iris Xe Graphics",
             "Compatibilidad_Placas": "Series 600",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "i7-1270P",
@@ -228,7 +228,7 @@
             "RAM_VelocidadMaxima": "4800 MT/s",
             "Integrada": "UHD Graphics 770",
             "Compatibilidad_Placas": "Series 600",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "i7-1280P",
@@ -241,7 +241,7 @@
             "RAM_VelocidadMaxima": "4800 MT/s",
             "Integrada": "Iris Xe Graphics",
             "Compatibilidad_Placas": "Series 600",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "i9-12900K",
@@ -254,7 +254,7 @@
             "RAM_VelocidadMaxima": "4800 MT/s",
             "Integrada": "UHD Graphics 770",
             "Compatibilidad_Placas": "Series 600",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           }
         ]
       },
@@ -272,7 +272,7 @@
             "RAM_VelocidadMaxima": "5600 MT/s",
             "Integrada": "UHD Graphics 770",
             "Compatibilidad_Placas": "Series 600/700",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "Intel Core i5-13600K",
@@ -285,7 +285,7 @@
             "RAM_VelocidadMaxima": "5600 MT/s",
             "Integrada": "UHD Graphics 770",
             "Compatibilidad_Placas": "Series 600/700",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "Intel Core i5-13400F",
@@ -298,7 +298,7 @@
             "RAM_VelocidadMaxima": "5600 MT/s",
             "Integrada": "No",
             "Compatibilidad_Placas": "Series 600/700",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "Intel Core i5-13400",
@@ -311,7 +311,7 @@
             "RAM_VelocidadMaxima": "5600 MT/s",
             "Integrada": "UHD Graphics 770",
             "Compatibilidad_Placas": "Series 600/700",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "Intel Core i3-13100",
@@ -324,7 +324,7 @@
             "RAM_VelocidadMaxima": "5600 MT/s",
             "Integrada": "UHD Graphics 730",
             "Compatibilidad_Placas": "Series 600/700",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "Intel Core i3-13100F",
@@ -337,7 +337,7 @@
             "RAM_VelocidadMaxima": "5600 MT/s",
             "Integrada": "No",
             "Compatibilidad_Placas": "Series 600/700",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "Intel Core i7-1370PE",
@@ -350,7 +350,7 @@
             "RAM_VelocidadMaxima": "5600 MT/s",
             "Integrada": "Iris Xe Graphics",
             "Compatibilidad_Placas": "Series 600/700",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "Intel Core i7-1370PRE",
@@ -363,7 +363,7 @@
             "RAM_VelocidadMaxima": "5600 MT/s",
             "Integrada": "Iris Xe Graphics",
             "Compatibilidad_Placas": "Series 600/700",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "Intel Core i5-1350PE",
@@ -376,7 +376,7 @@
             "RAM_VelocidadMaxima": "5600 MT/s",
             "Integrada": "Iris Xe Graphics",
             "Compatibilidad_Placas": "Series 600/700",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "Intel Core i5-1350PRE",
@@ -389,7 +389,7 @@
             "RAM_VelocidadMaxima": "5600 MT/s",
             "Integrada": "Iris Xe Graphics",
             "Compatibilidad_Placas": "Series 600/700",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           }
         ]
       },
@@ -407,7 +407,7 @@
             "RAM_VelocidadMaxima": "5600 MT/s",
             "Integrada": "UHD Graphics 770",
             "Compatibilidad_Placas": "Series 600/700",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "Intel Core i7-14700KF",
@@ -420,7 +420,7 @@
             "RAM_VelocidadMaxima": "5600 MT/s",
             "Integrada": "No",
             "Compatibilidad_Placas": "Series 600/700",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "Intel Core i7-14700F",
@@ -433,7 +433,7 @@
             "RAM_VelocidadMaxima": "5600 MT/s",
             "Integrada": "No",
             "Compatibilidad_Placas": "Series 600/700",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "Intel Core i9-14900K",
@@ -446,7 +446,7 @@
             "RAM_VelocidadMaxima": "5600 MT/s",
             "Integrada": "UHD Graphics 770",
             "Compatibilidad_Placas": "Series 600/700",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "Intel Core i5-14500HX",
@@ -459,7 +459,7 @@
             "RAM_VelocidadMaxima": "5600 MT/s",
             "Integrada": "UHD Graphics 770",
             "Compatibilidad_Placas": "Series 600/700",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "Intel Core i3-14100",
@@ -472,7 +472,7 @@
             "RAM_VelocidadMaxima": "5600 MT/s",
             "Integrada": "UHD Graphics 730",
             "Compatibilidad_Placas": "Series 600/700",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           },
           {
             "Modelo": "Intel Core i5-14400",
@@ -485,7 +485,7 @@
             "RAM_VelocidadMaxima": "5600 MT/s",
             "Integrada": "UHD Graphics 770",
             "Compatibilidad_Placas": "Series 600/700",
-            "Zocalo": "LGA 1700"
+            "Zocalo": "LGA1700"
           }
         ]
       }

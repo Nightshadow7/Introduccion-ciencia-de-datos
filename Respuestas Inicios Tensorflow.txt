@@ -1,0 +1,14 @@
+1. ¿Qué son las redes neuronales?
+Las redes neuronales son modelos de aprendizaje automático inspirados en el cerebro humano. Están compuestas por capas de nodos interconectados, cada uno de los cuales realiza un cálculo simple. Estos cálculos se combinan para producir una salida.
+
+2. ¿Cómo funcionan las capas, los nodos y las funciones de activación?
+Las capas son grupos de nodos. Cada nodo recibe entradas de los nodos de la capa anterior y produce una salida que se envía a los nodos de la siguiente capa. La función de activación es una función matemática que se aplica a la salida de cada nodo para determinar si se activa o no.
+
+3. Reflexionar sobre cómo las redes neuronales pueden resolver problemas en diferentes campos (e.g., medicina, transporte, etc.).
+Las redes neuronales pueden resolver una amplia variedad de problemas, como el reconocimiento de imágenes, el procesamiento del lenguaje natural y la predicción de series temporales. Por ejemplo, se pueden utilizar para diagnosticar enfermedades, predecir el tráfico y recomendar productos.  
+
+4. ¿Qué papel juegan las capas ocultas en la red neuronal?
+Las capas ocultas son las capas intermedias entre la capa de entrada y la capa de salida. Estas capas son responsables de aprender las representaciones más útiles de los datos de entrada.
+
+5. ¿Por qué es importante la función de activación?
+La función de activación es importante porque permite a las redes neuronales aprender representaciones no lineales de los datos. Esto es esencial para resolver problemas complejos.

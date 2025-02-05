@@ -174,7 +174,10 @@ Además de las estructuras de datos básicas como listas, tuplas, diccionarios y
 | Variables y Tipos de Datos | Introducimos los principales tipos de datos en Python y el casting | <ul><li>[Tipos de datos](Ejemplo%20clase%202_1.py#L1)</li> <li>[Ejemplo de uso](Ejemplo%20clase%202_2.py#L1)</li></ul> |
 | Estructuras de control | Se muestran un pequeño vistaso al uso de las estructuras de control y las funciones | [Estructuras de Control](Ejemplo%20clase%203.py#L1) |
 | Estructura de datos | Se muestran los tipos de estructuras de datos basicos como arrays y matrices tambien el como manipularlos. | [Arrays y Matrices](Ejemplo%10clase%204.py#L1) |
-| Juego pokemon | Se muestra la estructura de un juego de pokemones creado y proporcionado por el docente | [Juego Pokemon version 0.0](pokemonGame.py#L132)
+| Juego pokemon | Se muestra la estructura de un juego de pokemones creado y proporcionado por el docente | [Juego Pokemon version 0.0](pokemonGame.py#L132) |
+| Juego jeopardy | se sube el archivo implementado en clase | [Juego en Clase](jeopardyClase.py#L115) |
+| Inicios en Tensorflow | se explico lo basico del funcionamiento de un libreria en Tensorflow | <ul><li> [Tu primera red neuronal en Python y Tensorflow](https://www.youtube.com/watch?v=iX_on3VxZzk) </li><li> [Codigo](Tensorflow%20inicios.py#L37) </li></ul> |
+| Clasificador de imagenes | Se mostro un video el como a base de un dataset de imagenes se logro crear un modelo que pueda entender imagenes a partir de redes neuronales | <ul><li> [Codigo](ClasificadorImagenes.py#L156) </li><li> [ Clasificador de imagenes con Tensorflow](https://www.youtube.com/watch?v=j6eGHROLKP8) </li></ul> |
 
 
 ## Ejercicios
@@ -184,3 +187,25 @@ Además de las estructuras de datos básicas como listas, tuplas, diccionarios y
 | Analisis de Palabras | Escribe un programa que analice un texto introducido por el usuario. | [Introduccion del texto](Texto%20introducido.py#L50) |
 | Rotacion de matriz | Dada una matriz cuadrada, escribe un programa que realice la rotación de 90 grados en sentido horario y muestre la matriz rotada. | <ul><li>[Rotacion con numpy](Rotacion%20matriz.py#L32)</li><li>[Rotacion sin Librerias](Rotacion%20matriz.py#L72)</li></ul> |
 | Modificacion del juego de Pokemon | Se investigo al respecto en la pagina oficial llamada Bulbapedia. Se utilizo un archivo JSON para cargar los movimientos y ataques,adicional como recomendacion cabiar la ruta de archivo para que funcione correctamente. [Aqui👆🏻](Pokemon%20Game%20Released.py#L122) | <ul><li>[Pagina Oficial](https://bulbapedia.bulbagarden.net/wiki/Main_Page)</li><li>[JSON Utilizado](https://github.com/Purukitto/pokemon-data.json)</li><li>[Juego](Pokemon%20Game%20Released.py#L170)</li><ul/> |
+| Juego Jeopardy | Un juego de palabras que se implementaron mejoras, se creo una base de datos externa | <ul><li>[Juego](jeopardy.py#L198)</li><li>[Base de Datos](BancoPreguntas.json#L1)</li></ul> |
+| Comprendiendo las Redes Neuronales | Se respondio a las preguntas relacionadas al video de inicios en el funcionamiento de Tensorflow | [Actividades Red Neuronal](Respuestas%20Inicios%20Tensorflow.py#L1) |
+| Clasificador de Imagenes | Se anexan las respuestas al video del Clasificador de imagenes con TensorFlow | [Actividades Clasificador de Imagenes](Respuestas%20Clasificador%20Imagenes.py#L1) |
+
+## Proyecto final 
+
+En la actualidad, el uso de equipos de cómputo se ha convertido en una necesidad, una herramienta fundamental y un aliado estratégico que facilita la realización de los deberes, compromisos y tareas. Estos dispositivos permiten optimizar labores cotidianas y acceder a una gran cantidad de información. En cuanto al ámbito empresarial, los equipos tecnológicos mejoran y potencian la gestión de información y la realización de actividades, contribuyendo a la eficiencia de la empresa.
+
+1. se utilizo una base de datos alojada en un archivo [**JSON**](BaseProyecto.json#L1)
+2. Se realizaron 2 versiones:
+  + la primer version estable localizada en: [1.0](ProyectoFinal.py#L31)
+  + La segunda version un poco mas amigable pero con algunos errores: [2.0](ProyectoFinalV2.py#L314)
+
+**Para poder ejecutar el proyecto se deben escribir los siguientes comandos:**
+1. **Para la version 1.0**
+    ```python
+    streamlit run .\ProyectoFinal.py
+    ```
+2. **Para la version 2.0**
+    ```python
+    streamlit run .\ProyectoFinalV2.py
+    ```

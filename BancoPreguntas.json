@@ -1,0 +1,23 @@
+{
+  "Fácil": [
+      {"pregunta": "¿Cuál es la capital de Francia?", "respuesta": "París", "opciones": ["Londres", "París", "Madrid", "Roma"]},
+      {"pregunta": "¿Cuántos días tiene una semana?", "respuesta": "7", "opciones": ["5", "6", "7", "8"]},
+      {"pregunta": "¿Qué planeta es conocido como el Planeta Rojo?", "respuesta": "Marte", "opciones": ["Marte", "Venus", "Júpiter", "Saturno"]},
+      {"pregunta": "¿Cuántos lados tiene un triángulo?", "respuesta": "3", "opciones": ["3", "4", "5", "6"]},
+      {"pregunta": "¿Qué animal dice 'muu'?", "respuesta": "Vaca", "opciones": ["Perro", "Gato", "Vaca", "Caballo"]}
+  ],
+  "Intermedio": [
+      {"pregunta": "¿Cuál es el gas más abundante en la atmósfera?", "respuesta": "Nitrógeno", "opciones": ["Oxígeno", "Nitrógeno", "Dióxido de carbono", "Hidrógeno"]},
+      {"pregunta": "¿Cuál es el río más largo del mundo?", "respuesta": "Amazonas", "opciones": ["Nilo", "Amazonas", "Yangtsé", "Misisipi"]},
+      {"pregunta": "¿Qué país es conocido como la tierra del sol naciente?", "respuesta": "Japón", "opciones": ["China", "Japón", "Corea", "Tailandia"]},
+      {"pregunta": "¿Cuántos colores tiene el arcoíris?", "respuesta": "7", "opciones": ["6", "7", "8", "9"]},
+      {"pregunta": "¿En qué continente se encuentra Egipto?", "respuesta": "África", "opciones": ["Asia", "África", "Europa", "América"]}
+  ],
+  "Difícil": [
+      {"pregunta": "¿En qué año llegó el hombre a la Luna?", "respuesta": "1969", "opciones": ["1969", "1970", "1958", "1965"]},
+      {"pregunta": "¿Quién desarrolló la teoría de la relatividad?", "respuesta": "Einstein", "opciones": ["Newton", "Tesla", "Einstein", "Galileo"]},
+      {"pregunta": "¿Cuál es el elemento químico con símbolo Au?", "respuesta": "Oro", "opciones": ["Oro", "Plata", "Hierro", "Cobre"]},
+      {"pregunta": "¿Qué país ganó la Copa Mundial de Fútbol en 2018?", "respuesta": "Francia", "opciones": ["Francia", "Croacia", "Brasil", "Alemania"]},
+      {"pregunta": "¿Cuál es la velocidad de la luz en el vacío?", "respuesta": "300,000 km/s", "opciones": ["300,000 km/s", "150,000 km/s", "1,000,000 km/s", "299,792 km/s"]}
+  ]
+}
